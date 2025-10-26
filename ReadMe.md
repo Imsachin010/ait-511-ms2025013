@@ -3,6 +3,9 @@
 ## Project Overview
 This project focuses on predicting obesity risk categories using various machine learning models. The goal is to classify individuals into different weight categories based on their physical and lifestyle characteristics.
 
+## Code File
+The python notebook name : AIT511_ML_Project.ipynb
+If above file preview is not availbale just clone the repo and downlaod in your system.
 ## Dataset
 The project uses multiple datasets:
 - Training dataset (`data_train.csv`)

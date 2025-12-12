@@ -133,6 +133,24 @@ Applied SMOTE (Synthetic Minority Over-sampling Technique):
 
 ### 🏆 Best Model: Neural Network
 
+### 🔮 Future Improvements
+- Test Random Forest and XGBoost for comparison with Neural Network
+- Apply PCA to 40 soil types (retain 95% variance with ~12 components)
+- Bayesian optimization for architecture search (layer sizes, dropout rates)
+- Evaluate ADASYN vs SMOTE for minority class synthesis
+- Implement cost-sensitive learning as alternative to SMOTE
+
+### 📚 Requirements
+```
+python >= 3.8
+tensorflow >= 2.8
+scikit-learn >= 1.0
+imbalanced-learn >= 0.9
+pandas >= 1.3
+numpy >= 1.21
+matplotlib >= 3.4
+seaborn >= 0.11
+```
 
 ### 👤 Author
 **Sachin Mishra (MS2025013)**  
